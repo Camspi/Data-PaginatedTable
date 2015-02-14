@@ -32,3 +32,5 @@ resources:
   homepage: https://github.com/Camspi/Data-PaginatedTable
   repository: https://github.com/Camspi/Data-PaginatedTable.git
 version: 1.0.0
+x_contributors:
+  - 'Chris Tijerina <amarus18@hotmail.com>'
