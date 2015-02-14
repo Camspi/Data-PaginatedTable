@@ -1,3 +1,4 @@
+use 5.18.2;
 use Modern::Perl;
 use Moops;
 

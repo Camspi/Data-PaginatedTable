@@ -27,6 +27,7 @@ requires:
   XML::Simple::Sugar: '0'
   constant: '0'
   overload: '0'
+  perl: v5.18.2
 resources:
   bugtracker: https://github.com/Camspi/Data-PaginatedTable/issues
   homepage: https://github.com/Camspi/Data-PaginatedTable

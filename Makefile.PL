@@ -3,7 +3,7 @@
 use strict;
 use warnings;
 
-
+use 5.018002;
 
 use ExtUtils::MakeMaker;
 
@@ -18,6 +18,7 @@ my %WriteMakefileArgs = (
   "DISTNAME" => "Data-PaginatedTable",
   "EXE_FILES" => [],
   "LICENSE" => "perl",
+  "MIN_PERL_VERSION" => "5.018002",
   "NAME" => "Data::PaginatedTable",
   "PREREQ_PM" => {
     "Modern::Perl" => 0,
