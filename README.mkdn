@@ -148,7 +148,7 @@ Sets the `current` page to the next `page` and returns the instance or undef if 
 
 ## previous
 
-Sets the `current` page to the next `page` and returns the instance or undef if there are no previous pages.
+Sets the `current` page to the previous `page` and returns the instance or undef if there are no previous pages.
 
 ## last
 

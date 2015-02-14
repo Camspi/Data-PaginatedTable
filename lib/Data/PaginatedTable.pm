@@ -267,7 +267,7 @@ Sets the C<current> page to the next C<page> and returns the instance or undef i
 
 =head2 previous
 
-Sets the C<current> page to the next C<page> and returns the instance or undef if there are no previous pages.
+Sets the C<current> page to the previous C<page> and returns the instance or undef if there are no previous pages.
 
 =head2 last
 
